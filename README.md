@@ -112,3 +112,8 @@ $ node search.js
 ```
 
 ![image](https://user-images.githubusercontent.com/30981427/80785870-260d2500-8b58-11ea-9c0c-f1a03aa30102.png)
+
+## Desempenho
+
+![image](https://user-images.githubusercontent.com/30981427/80786686-c49a8580-8b5a-11ea-8561-1117708f2021.png)
+
