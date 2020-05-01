@@ -6,10 +6,8 @@ exports.findAll = async () => {
     documents.forEach(field => {
         arr.push(field.number)
     })
-    const body = {
-        numbers: arr
-    }
-    return body;
+    
+    return arr;
 }
 
 exports.insert = async () => {
