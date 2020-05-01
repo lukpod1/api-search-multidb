@@ -60,6 +60,9 @@ v10.15.3
 
 Para baixar o projeto, clique no botão Download depois no botão Download ZIP 
 
+![image](https://user-images.githubusercontent.com/30981427/80781880-6796d380-8b4a-11ea-9207-393f704db250.png)
+
+
 ou execute o seguinte comando:
 
 ```
@@ -83,3 +86,11 @@ $ node server.js
 ```
 
 ![image](https://user-images.githubusercontent.com/30981427/80782755-cdd12580-8b4d-11ea-8ed0-d7b438692359.png)
+
+
+### Consultando as Rotas
+
+Para instalar o Postman basta acessar: [Postman](https://www.postman.com/downloads/)
+
+![image](https://user-images.githubusercontent.com/30981427/80783110-00c7e900-8b4f-11ea-9b40-fbf463aba045.png)
+
