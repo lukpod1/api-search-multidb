@@ -101,3 +101,14 @@ Para fazera consulta da API preencha os campos conforme a imagem:
 > O paramentro da requisição 'db' pode receber os seguintes valores (mongodb, mysql, postgres, mssql)
 
 ![image](https://user-images.githubusercontent.com/30981427/80783641-c95a3c00-8b50-11ea-8028-4cce22473b54.png)
+
+
+### Consumindo API
+
+Depois de ter rodado a API, na raiz do projeto execute o seguinte comando:
+
+```
+$ node search.js
+```
+
+![image](https://user-images.githubusercontent.com/30981427/80785870-260d2500-8b58-11ea-9c0c-f1a03aa30102.png)
