@@ -74,9 +74,6 @@ npm install
 ```
 esse comando irá baixar todas as dependências que se encontram no package.json
 
-![Annotation 2020-05-01 013252](https://user-images.githubusercontent.com/30981427/80782258-bd1fb000-8b4b-11ea-8e84-fcb7ce017be4.png)
-
-
 
 
 
