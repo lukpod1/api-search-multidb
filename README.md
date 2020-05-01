@@ -94,3 +94,10 @@ Para instalar o Postman basta acessar: [Postman](https://www.postman.com/downloa
 
 ![image](https://user-images.githubusercontent.com/30981427/80783110-00c7e900-8b4f-11ea-9b40-fbf463aba045.png)
 
+Para fazera consulta da API preencha os campos conforme a imagem:
+
+![image](https://user-images.githubusercontent.com/30981427/80783481-581a8900-8b50-11ea-92e3-ae7c3333d417.png)
+
+> O paramentro da requisição 'db' pode receber os seguintes valores (mongodb, mysql, postgres, mssql)
+
+![image](https://user-images.githubusercontent.com/30981427/80783641-c95a3c00-8b50-11ea-8028-4cce22473b54.png)
