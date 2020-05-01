@@ -1,20 +1,23 @@
 # API-SEARCH-MULTIDB
-====================
 
-A Second Level Header
----------------------
+Esse projeto consiste em uma API desenvolvida em Node.js, um ambiente de execução Javascript server-side que retorna uma lista de números a partir do banco de dados informado.
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+### Prerequisites
 
-The quick brown fox jumped over the lazy
-dog's back.
+What things you need to install the software and how to install them
 
-### Header 3
+```
+Give examples
+```
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+
