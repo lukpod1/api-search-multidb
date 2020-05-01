@@ -57,4 +57,12 @@ v10.15.3
 
 ### Baixando o repositorio
 
+Para baixar o projeto, clique no botão Download depois no botão Download ZIP ou execute o seguinte comando:
+
+```
+git clone https://github.com/lukpod1/api-search-multidb.git
+```
+
+
+
 
